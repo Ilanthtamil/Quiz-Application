@@ -1,0 +1,2 @@
+# Quiz-Application
+The application was created so that users can take quick quizzes. Options are given for each question in the multiple-choice quiz system. One option can only be chosen by a user at a time. After choosing their responses to each question, users submit their responses. A result or progress report is then displayed, showing the total number of questions answered correctly and the points awarded.
